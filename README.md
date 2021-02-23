@@ -1,6 +1,6 @@
 # Arduino Example 3
 Tutorial 3. RGB LED \
-LED가 RED -> GREEN -> BLUE 순서대로 켜지도록 제작
+LED가 RED → GREEN → BLUE 순서대로 켜지도록 제작
 
 ## circuit
 RED -> digital 10pin\
