@@ -26,6 +26,8 @@ pyfirmata의 아두이노 모듈을 사용하기 위해 import함
 **pin number** : The number of the pin\
 **i or o** : The mode of the pin 
  
+```print("RED")```\
+"RED" 문
 
 ```LED_R.write(1)```\
 RED LED가 연결된 10번 핀에 1을 입력시켜서 LED를 켜도록 함
